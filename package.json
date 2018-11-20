@@ -4,5 +4,8 @@
   "description": "node-GraphQL demo",
   "main": "index.js",
   "author": "Rob Giovinozzo",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.16.7"
+  }
 }
